@@ -1,0 +1,30 @@
+.DS_Store
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.toolchains/
+target/
+out/
+*.class
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.o
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local environment files
+.env
+.env.*
+
+# Additional native build artifacts
+*.a
+*.so
+*.dylib
+*.exe

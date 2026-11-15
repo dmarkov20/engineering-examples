@@ -1,0 +1,8 @@
+{
+  "name": "OpenJDK",
+  "version": 28,
+  "active": true,
+  "metadata": { "language": "Java", "category": "runtime" },
+  "features": ["JSON", "JVM"],
+  "optional": null
+}

@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "text": "Quote: \" and newline:\nDublin ☘ \u03A9 \uD83D\uDE80" },
+    { "value": null }
+  ],
+  "integer": -42,
+  "decimal": 0.1234567890123456789,
+  "largeInteger": 9007199254740993,
+  "outsideLong": 9223372036854775808
+}
